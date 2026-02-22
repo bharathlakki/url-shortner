@@ -54,7 +54,7 @@ shortify/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Nuraj250/shortify
+git clone https://github.com/bharathlakki/url-shortner.git
 cd shortify
 ```
 
