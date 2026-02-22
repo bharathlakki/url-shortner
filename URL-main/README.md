@@ -54,7 +54,7 @@ shortify/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Nuraj250/shortify
+git clone https://github.com/bharathlakki/url-shortner.git
 cd shortify
 ```
 
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory:
 
 ```env
-MONGO_URI=mongodb://localhost:27017/
+MONGO_URI=Insert your mongodb string
 DB_NAME=shortify
 BASE_URL=http://localhost:5000
 ```
